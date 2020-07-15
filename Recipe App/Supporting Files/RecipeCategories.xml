@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<categories>
+    <category id= "1">
+        <name>Indian Chinese</name>
+    </category>
+    <category id= "2">
+        <name>Italian cuisine</name>
+    </category>
+    <category id= "3">
+        <name>Japanese</name>
+    </category>
+    <category id= "4">
+        <name>Korean</name>
+    </category>
+    <category id= "5">
+        <name>Russian</name>
+    </category>
+</categories>
